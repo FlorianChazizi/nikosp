@@ -13,7 +13,7 @@ import port3 from "../../public/images/IMG_5852.JPEG";
 // Image data with labels
 const imageData = [
   { src: port1, label: "Τετραόροφη Οικοδομή" },
-  { src: port2, label: "Πενταόροφη Οικοδομή" },
+  { src: port2, label: "Τετραόροφη Οικοδομή" },
   { src: port3, label: "Τετραόροφη Οικοδομή" },
 ];
 
