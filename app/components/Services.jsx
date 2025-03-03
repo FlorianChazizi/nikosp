@@ -3,12 +3,11 @@ import Image from "next/image";
 const services = [
   { img: "/images/concrete-pump.gif", title: "Κατασκευή Καλουπιών", desc: "Αναλαμβάνουμε καλουπώματα για κάθε έργο." },
   { img: "/images/factory.gif", title: "Βιομηχανικά Έργα", desc: "Σταθερές και ανθεκτικές κατασκευές." },
-  { img: "/images/home.gif", title: "Ανακαινίσεις", desc: "Αναλαμβάνουμε ειδικές κατασκευές και ανακαινίσεις." },
 ];
 
 export default function Services() {
   return (
-    <section className="py-16 bg-gray-100 " id="services">
+    <section className="py-16 bg-gray-100 " id="services">  
       <div className="container mx-auto px-6 text-center">
         <h2 className="text-4xl font-bold text-gray-800">Οι Υπηρεσίες μας</h2>
         <div className="mt-8 grid md:grid-cols-3 gap-6">
