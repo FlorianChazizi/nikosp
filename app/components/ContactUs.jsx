@@ -19,8 +19,8 @@ export default function Contact() {
                     {/* Email */}
                     <div className="flex items-center space-x-4">
                         <FaEnvelope className="text-[#A4D037] text-2xl" />
-                        <a href="mailto:Nikospriftis504" className="text-lg hover:text-[#8BB52C]">
-                            Nikospriftis504
+                        <a href="mailto:Nikospriftis504@gmail.com" className="text-lg hover:text-[#8BB52C]">
+                        Nikospriftis504@gmail.com
                         </a>
                     </div>
 
